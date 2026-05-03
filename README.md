@@ -1,4 +1,4 @@
-# Olá, eu sou o Vitor Monteiro 👋
+# Vitor Monteiro
 
 Sou **Desenvolvedor de Sistemas** e **Analista de Operações**, focado na criação de ferramentas de automação e na sustentação de ecossistemas logísticos complexos. 
 
